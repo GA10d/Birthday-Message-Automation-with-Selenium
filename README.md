@@ -1,8 +1,3 @@
-下面是一个**课程项目风格、比较详细的中英双语 README**，你可以直接保存为 `README.md` 用在 GitHub 上。这份描述是根据 `main.html` 里实际 Selenium 代码的行为整理出来的：
-
----
-
-````markdown
 # Course Project: Web Automation for Personalized Birthday Greetings  
 # 课程项目：基于 Selenium 的生日祝福文案自动化编辑
 
@@ -74,11 +69,7 @@ This project demonstrates how to use **Python + Selenium WebDriver** to automati
 .
 ├── main.html       # Jupyter Notebook 导出的静态 HTML 报告，展示完整代码与说明
 └── README.md       # 本说明文件（课程项目风格）
-````
 
-> 如果你后续把 `.ipynb` 或 `.py` 脚本也上传，可以在这里继续补充相应文件结构。
-
----
 
 ## 4. System Overview | 系统概述
 
